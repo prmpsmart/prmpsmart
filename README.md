@@ -35,4 +35,4 @@ A 23 year old Python developer, and Dart/Flutter developer. I'm an open source e
 
 ### Find me on
 
-<a href="https://www.hackerrank.com/prmpsmart"><img alt="HackerRank" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/></a> <a href="https://stackoverflow.com/users/13722027/prmpsmart"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/></a> 	<a href = "https://www.linkedin.com/in/prmpsmart/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.hackerrank.com/prmpsmart"><img alt="HackerRank" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/></a>	<a href = "https://www.linkedin.com/in/prmpsmart/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
