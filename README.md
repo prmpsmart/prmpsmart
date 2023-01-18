@@ -20,8 +20,6 @@ Here are some ideas to get you started:
 A 23 year old Python developer, and Dart/Flutter developer. I'm an open source enthusiast.
 
 
-![PRMPSmart's Github Stats](https://github-readme-stats.vercel.app/api?username=prmpsmart&show_icons=true&theme=dracula)
-
 ## How much I'm being stalked
  
 <img src="https://gpvc.arturio.dev/prmpsmart" alt="Profile views"/>
