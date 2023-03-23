@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 # Apata Miracle Peter
 
-A 23 year old Python developer, and Dart/Flutter developer. I'm an open source enthusiast.
+I'm a Python, C#, and Dart/Flutter developer. I'm an open source enthusiast.
 
 
 ## How much I'm being stalked
