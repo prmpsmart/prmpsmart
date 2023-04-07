@@ -30,8 +30,7 @@ I'm a Python, C#, and Dart/Flutter developer. I'm an open source enthusiast.
 
 ### Languages I use
 
-<img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"> <img src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/> <img src="https://img.shields.io/badge/dart-%2300ADD8.svg?style=for-the-badge&logo=dart&logoColor=white">
-
+<img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"> <img src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/> <img src="https://img.shields.io/badge/dart-%2300ADD8.svg?style=for-the-badge&logo=dart&logoColor=white"> <img src="https://img.shields.io/badge/csharp%20-%2300599C.svg?&style=for-the-badge&logo=csharp&logoColor=white"/> <img src="https://img.shields.io/badge/js%20-%2300599C.svg?&style=for-the-badge&logo=js&logoColor=white"/>
 
 ### Find me on
 
