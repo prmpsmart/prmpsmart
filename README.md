@@ -19,12 +19,6 @@ Here are some ideas to get you started:
 
 I'm a Python, C#, and Dart/Flutter developer. I'm an open source enthusiast.
 
-
-## How much I'm being stalked
- 
-<img src="https://gpvc.arturio.dev/prmpsmart" alt="Profile views"/>
-
-
 ## LeetCode for lyfe! ([profile](https://leetcode.com/prmpsmart))
 [![PRMPSmart's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=prmpsmart)](https://github.com/KnlnKS/leetcode-stats)
 
