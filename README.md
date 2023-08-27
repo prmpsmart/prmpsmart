@@ -1,13 +1,28 @@
-# Apata Miracle Peter
+# Miracle Apata
 
-Mobile App Developer (**Flutter**)
-Desktop GUI Developer (**PySide**)
-Backend Developer (**Django**, **Flask**, **FastAPI**)
-Python Developer (miscellaneous projects & scripting)
+## Software Engineer
 
-Above named are my strength as a software developer.
+- Mobile App (**Flutter**).
+- Desktop GUI (**PySide**).
+- Backend (**Django**, **Flask**, **FastAPI**).
+- Web scraping.
+- Data Visualisation.
+- System Administration, Scripting, and Automation.
 
-### Languages I use
+## Programming Languages
 
 - Python
 - Dart
+- JavaScript
+- HTML & CSS
+- C#
+- Java
+- C, C++
+
+## Technologies and Frameworks
+
+- Django, Flask, FastAPI
+- Flutter
+- Qt for Python (PySide & PyQt)
+- BeautifulSoup, Selenium, Scrapy
+- Plotly, Matplotib, numpy, pandas
