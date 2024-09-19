@@ -1,5 +1,7 @@
 # Miracle Apata
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=prmpsmart&theme=nightfox&hide_border=true&border_radius=10)](https://git.io/streak-stats)
+
 ## Software Engineer
 
 - Mobile App (**Flutter**).
