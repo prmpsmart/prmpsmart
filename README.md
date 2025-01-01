@@ -8,15 +8,15 @@
 - Desktop GUI (**PySide**).
 - Web Backend / Server (**Django**, **Flask**).
 - REST API Backend / Server (**FastAPI**).
-- Web scraping.
-- Data Visualisation.
-- System Administration, Scripting, and Automation.
+- Compiler.
 
+  
 ## Programming Languages
 
 - Python
 - Dart
 - JavaScript
+- OCaml
 - HTML & CSS
 - C#
 - Java
