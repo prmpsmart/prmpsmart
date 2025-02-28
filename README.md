@@ -1,40 +1,21 @@
-# Miracle Apata
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=prmpsmart&theme=nightfox&hide_border=true&border_radius=10)](https://git.io/streak-stats)
+# Miracle Apata **`(prmpsmart)`**
 
 ## Software Engineer
 
-- Mobile App (**Flutter**).
-- Desktop GUI (**PySide**).
-- Web Backend / Server (**Django**, **Flask**).
-- REST API Backend / Server (**FastAPI**).
-- Compiler.
-
+- Backend: **`Python (FastAPI)`, `Typescript (Nest.js)`**
+- Mobile: **`Dart (Flutter)`**
+- Desktop: **`Python (PySide / PyQt)`**
   
-## Programming Languages
+## Languages
 
 - Python
+- TypeScript
+- Javascript
 - Dart
-- JavaScript
 - OCaml
-- HTML & CSS
-- C#
-- Java
-- C, C++
+- C#, Java, C, C++, SQL
 
-## Technologies and Frameworks
+## Contacts
+- prmpsmart@gmail.com
 
-- Django, Flask, FastAPI
-- Flutter
-- Qt for Python (PySide & PyQt)
-- BeautifulSoup, Selenium, Scrapy
-- Plotly, Matplotib, numpy, pandas
-
-## Databases
-
-- Microsoft Azure
-- Firebase Realtime Database
-- Firebase Cloud Database
-- MongoDB
-- MySQL
-- Amazon AWS
+[![GitHub Streak](https://streak-stats.demolab.com?user=prmpsmart&theme=nightfox&hide_border=true&border_radius=10)](https://git.io/streak-stats)
