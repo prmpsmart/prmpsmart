@@ -1,6 +1,6 @@
-# Miracle Apata **`(prmpsmart)`**
+# Miracle Apata **`(prmpsmart)`** 
 
-## Software Engineer
+## Software Engineer (🇪🇸 🇳🇬 🇺🇸)
 
 - Backend: **`Python (FastAPI)`, `Typescript (Nest.js)`**
 - Mobile: **`Dart (Flutter)`**, **`Typescript (React Native)`**
