@@ -8,12 +8,8 @@
   
 ## Languages
 
-- Python
-- TypeScript
-- Javascript
-- Dart
-- OCaml
-- C#, Java, C, C++, SQL
+- Strength: **`Python, TypeScript, Javascript, Dart`**
+- Mid-level: **`OCaml, C#, Java, C, C++, SQL`**
 
 ## Contacts
 - prmpsmart@gmail.com
