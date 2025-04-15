@@ -14,4 +14,4 @@
 ## Contacts
 - prmpsmart@gmail.com
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=prmpsmart&theme=nightfox&hide_border=true&border_radius=10)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=prmpsmart&theme=nightfox&hide_border=true&border_radius=10)]([https://git.io/streak-stats](https://streak-stats.demolab.com?user=prmpsmart&theme=nightfox&hide_border=true&border_radius=10))
