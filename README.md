@@ -3,7 +3,7 @@
 ## Software Engineer (🇪🇸 🇳🇬 🇺🇸)
 
 - Backend: **`Python (FastAPI)`, `Typescript (Express.js, Nest.js)`**
-- Mobile: **`Dart (Flutter)`**,  **`Swift (SwiftUI)`**, **`Typescript (React Native)`**
+- Mobile: **`Dart (Flutter)`**,  **`Swift (SwiftUI)`**
 - Desktop: **`Python (PySide / PyQt), Swift (SwiftUI)`**
   
 ## Languages
