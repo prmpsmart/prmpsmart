@@ -2,13 +2,13 @@
 
 ## Software Engineer (🇪🇸 🇳🇬 🇺🇸)
 
-- Backend: **`Python (FastAPI)`, `Typescript (Nest.js)`**
-- Mobile: **`Dart (Flutter)`**, **`Typescript (React Native)`**
-- Desktop: **`Python (PySide / PyQt)`**
+- Backend: **`Python (FastAPI)`, `Typescript (Express.js, Nest.js)`**
+- Mobile: **`Dart (Flutter)`**,  **`Swift (SwiftUI)`**, **`Typescript (React Native)`**
+- Desktop: **`Python (PySide / PyQt), Swift (SwiftUI)`**
   
 ## Languages
 
-- Strength: **`Python, TypeScript, Javascript, Dart`**
+- Strength: **`Python, TypeScript, Dart, Swift`**
 - Mid-level: **`OCaml, C#, Java, C, C++, SQL`**
 
 ## Contacts
