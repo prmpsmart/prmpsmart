@@ -34,8 +34,6 @@
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
 <img src="https://github-readme-stats.vercel.app/api?username=prmpsmart&show_icons=true&theme=nightowl&hide_border=true" height="150" alt="GitHub Stats" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prmpsmart&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="Top Languages" />
-<img src="https://github-readme-activity-graph.cyclic.app/graph?username=prmpsmart&theme=tokyo-night&hide_border=true" width="100%" alt="Activity Graph" />
-<img src="https://streak-stats.demolab.com?user=prmpsmart&theme=nightfox&hide_border=true&border_radius=10" height="150" alt="GitHub Streak" />
 </div>
 
 ---
