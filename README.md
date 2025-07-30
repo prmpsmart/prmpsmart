@@ -24,7 +24,7 @@
 | -------------------- | --------------------------------------------------------------------------------------------------------- |
 | 🐍 Python Developer  | [python-developer.md](https://github.com/prmpsmart/miracle-apata-resumes/blob/main/python-developer.md)   |
 | 🖧 Backend Engineer   | [backend-engineer.md](https://github.com/prmpsmart/miracle-apata-resumes/blob/main/backend-engineer.md)   |
-| 📱 Mobile Developer  | [mobile-developer.md](https://github.com/prmpsmart/miracle-apata-resumes/blob/main/mobile-developer.md)   |
+| 📱 Mobile Engineer  | [mobile-engineer.md](https://github.com/prmpsmart/miracle-apata-resumes/blob/main/mobile-engineer.md)   |
 | 🖥️ Desktop Developer | [desktop-developer.md](https://github.com/prmpsmart/miracle-apata-resumes/blob/main/desktop-developer.md) |
 
 ---
