@@ -1,3 +1,5 @@
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=%2336BCF7&size=20&center=true&vCenter=true&width=1000&lines=Hi+there+👋,+my+name+is+Miracle+Apata;You+can+also+call+me+prmpsmart;I'm+a+Software+Engineer;Welcome+to+my+github+profile!+:%29)
+
 # 👋🏽 Miracle Apata **`(prmpsmart)`**
 
 ## 🧑🏽‍💻 Software Engineer · 🇪🇸 🇳🇬 🇺🇸
@@ -16,9 +18,11 @@
 ---
 
 ## 🗂️ Role-Specific Resumes
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="prmpsmart" min-width="400px" max-width="400px" width="400px" align="right">
 
 📄 Curated, Markdown-formatted resumes for each specialization:  
 → 🔗 **[View Resume Repository](https://github.com/prmpsmart/miracle-apata-resumes)**
+
 
 | Role                 | File                                                                                                      |
 | -------------------- | --------------------------------------------------------------------------------------------------------- |
