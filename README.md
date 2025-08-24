@@ -1,6 +1,6 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=%2336BCF7&size=20&center=true&vCenter=true&width=1000&lines=Hi+there+👋,+my+name+is+Miracle+Apata;You+can+also+call+me+prmpsmart;I'm+a+Software+Engineer;Welcome+to+my+github+profile!+:%29)
 
-# 👋🏽 Miracle Apata **`(prmpsmart)`**
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">  Miracle Apata **`(prmpsmart)`**
 
 ## 🧑🏽‍💻 Software Engineer · 🇪🇸 🇳🇬 🇺🇸
 
