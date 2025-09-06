@@ -59,7 +59,8 @@
 ## 📬 Contact
 
 - 📧 Email: [prmpsmart@gmail.com](mailto:prmpsmart@gmail.com)
-
 ---
+
+![Codewar](https://www.codewars.com/users/prmpsmart/badges/large)
 
 > Built with 💡 Markdown and ☕ powered by code.
