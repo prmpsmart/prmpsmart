@@ -23,13 +23,13 @@
 📄 Curated, Markdown-formatted resumes for each specialization:  
 → 🔗 **[View Resume Repository](https://github.com/prmpsmart/miracle-apata-resumes)**
 
-
 | Role                 | File                                                                                                      |
 | -------------------- | --------------------------------------------------------------------------------------------------------- |
 | 🐍 Python Developer  | [python-developer.md](https://github.com/prmpsmart/miracle-apata-resumes/blob/main/python-developer.md)   |
 | 🖧 Backend Engineer   | [backend-engineer.md](https://github.com/prmpsmart/miracle-apata-resumes/blob/main/backend-engineer.md)   |
 | 📱 Mobile Engineer  | [mobile-engineer.md](https://github.com/prmpsmart/miracle-apata-resumes/blob/main/mobile-engineer.md)   |
 | 🖥️ Desktop Developer | [desktop-developer.md](https://github.com/prmpsmart/miracle-apata-resumes/blob/main/desktop-developer.md) |
+| 💻 Software Engineer | [software-engineer.md](https://github.com/prmpsmart/miracle-apata-resumes/blob/main/software-engineer.md) |
 
 ---
 
