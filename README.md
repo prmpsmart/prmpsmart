@@ -28,14 +28,6 @@
 | 🖧 Backend Engineer   | [backend-engineer.md](https://github.com/prmpsmart/miracle-apata-resumes/blob/main/backend-engineer.md)   |
 | 📱 Mobile Engineer  | [mobile-engineer.md](https://github.com/prmpsmart/miracle-apata-resumes/blob/main/mobile-engineer.md)   |
 | 🖥️ Desktop Developer | [desktop-developer.md](https://github.com/prmpsmart/miracle-apata-resumes/blob/main/desktop-developer.md) |
----
-
-## 📊 GitHub Stats
-
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
-<img src="https://github-readme-stats.vercel.app/api?username=prmpsmart&show_icons=true&theme=nightowl&hide_border=true" height="150" alt="GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prmpsmart&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="Top Languages" />
-</div>
 
 ---
 
