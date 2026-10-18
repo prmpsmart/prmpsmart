@@ -15,6 +15,7 @@ I'm a software engineer who moves across backend, mobile, and desktop: productio
 | [Vaultify](https://vaultify.africa) | Estate-management app: Paystack payments, QR access codes, resident–security chat | Flutter · GetX · Socket.IO |
 | [Tywn](https://home.twynapp.org/) | Real-time safety and location-sharing app with one-tap emergency alerts | Flutter · Socket.IO · Google Maps |
 | [piXeval](https://dinaten.com/pixeval-v7/) | Exam-correction desktop suite (30 exams/min) used by universities, with a native macOS build | PySide6 · SwiftUI · OpenCV |
+| Jorly *(in development)* | Travel booking platform: flights, hotels and car rentals; Flutter app and FastAPI backend ([dev site](https://dev.flyjorly.com)) | Flutter · FastAPI · Redis · Celery |
 | [PriceGrid](https://github.com/prmpsmart/price-grid) | Price-intelligence API with decoupled pub/sub alerts and cached reads | FastAPI · Redis · SQLModel |
 
 More on the [portfolio](https://prmpsmart.github.io/portfolio).
