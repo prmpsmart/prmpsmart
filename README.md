@@ -110,9 +110,11 @@ The architecture and tooling I use across my Flutter projects:
 
 | Role                 | File                                                                                                      |
 | -------------------- | --------------------------------------------------------------------------------------------------------- |
+| 💻 Software Engineer | [software-engineer.md](https://github.com/prmpsmart/miracle-apata-resumes/blob/main/resumes/software-engineer.md) |
 | 🖧 Backend Engineer   | [backend-engineer.md](https://github.com/prmpsmart/miracle-apata-resumes/blob/main/resumes/backend-engineer.md)   |
 | 📱 Mobile Engineer   | [mobile-engineer.md](https://github.com/prmpsmart/miracle-apata-resumes/blob/main/resumes/mobile-engineer.md)     |
 | 🖥️ Desktop Engineer | [desktop-engineer.md](https://github.com/prmpsmart/miracle-apata-resumes/blob/main/resumes/desktop-engineer.md) |
+| 🐍 Python Engineer | [python-engineer.md](https://github.com/prmpsmart/miracle-apata-resumes/blob/main/resumes/python-engineer.md) |
 
 ---
 
