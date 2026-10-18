@@ -4,7 +4,7 @@
 
 ## 🧑🏽‍💻 Software Engineer · ⚙️ Backend · 📱 Mobile · 🖥️ Desktop · 🇳🇬 🇪🇸 🇺🇸
 
-I'm a software engineer who moves across backend, mobile, and desktop: production-grade APIs and real-time systems, Flutter apps shipped across fintech, estate-management, safety, and medical domains, and cross-platform desktop software. I started with Python, self-taught after a CSC 201 course in 2018/2019, and I work remotely with teams in Nigeria, Spain, and the USA. I care about clean architecture, functional error handling, and writing code that scales without surprises.
+I'm a software engineer who moves across backend, mobile, and desktop: production-grade APIs and real-time systems, Flutter apps shipped across fintech, estate-management, safety, and medical domains, and cross-platform desktop software. I started with Python, self-taught after a CSC 201 course in 2018/2019, and I work remotely with teams in Nigeria, Canada, Spain, and the USA. I care about clean architecture, functional error handling, and writing code that scales without surprises.
 
 🌐 **[Portfolio](https://prmpsmart.github.io)** · 📄 **[Résumés](https://github.com/prmpsmart/miracle-apata-resumes)** · 💼 **[LinkedIn](https://linkedin.com/in/prmpsmart)** · 📧 **[Email](mailto:prmpsmart@gmail.com)**
 
